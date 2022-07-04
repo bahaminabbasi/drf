@@ -1,0 +1,7 @@
+env
+backend/api/__pycache__/
+backend/api/migrations/
+backend/cfehome/migrations/
+backend/products/migrations/
+backend/cfehome/__pycache__/
+backend/products/__pycache__/
