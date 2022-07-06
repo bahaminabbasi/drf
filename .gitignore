@@ -5,3 +5,4 @@ backend/cfehome/migrations/
 backend/products/migrations/
 backend/cfehome/__pycache__/
 backend/products/__pycache__/
+backend/db.sqlite3
